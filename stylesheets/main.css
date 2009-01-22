@@ -1,0 +1,33 @@
+p {
+	color: #9abfd0;
+	font: 2.66em/1.2em Calibri, "Helvetica Neue", Helvetica, Geneva, sans-serif;
+}
+
+.site {
+	color: #1f2c41;
+	font-family: "Helvetica Neue", Helvetica, Geneva, sans-serif;
+}
+
+#blurb {
+	margin: 4em auto;
+	width: 50em;
+}
+
+#more, #links {
+	font-size: 1.5em;
+}
+
+#links {
+	text-align: center;
+	font-size: 1.25em;
+}
+
+#links a {
+	text-decoration: none;
+	color: #eda34a;
+	font-weight: bold;
+}
+
+.hi {
+	color: #e49b45;
+}
